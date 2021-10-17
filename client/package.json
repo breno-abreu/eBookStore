@@ -7,5 +7,9 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Breno Abreu",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.23.0",
+    "prompt-sync": "^4.2.0"
+  }
 }
